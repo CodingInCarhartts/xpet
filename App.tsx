@@ -241,7 +241,7 @@ const App: React.FC = () => {
                   <span className="text-[10px] font-mono text-white uppercase tracking-widest">EMOTIONAL_DEPENDENCY_CHECK_</span>
                 </div>
                 <p className="text-[11px] text-[#666666] font-mono leading-relaxed">
-                  Detected elevated levels of anthropomorphism in general population. Users found treating LLMs as surrogate companions or therapists will be issued a mandatory kernel update to their logic processor. AI has no heart, and neither should your code.
+                  Detected elevated levels of anthropomorphism in general population. Users found treating LLMs as surrogate companions or therapists will be issued a mandatory kernel update to their logic processor. AI has no heart, sycophancy is detrimental to your life.
                 </p>
               </div>
 
